@@ -1,2 +1,2 @@
 # untangled_tte
-Untangled representations for conditional time to event
+Learning untangled representations for conditional time to event
